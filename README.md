@@ -21,5 +21,5 @@ Sequence Dice is a minimal Android game that challenges your memory, focus, and 
 ### Clone & Run
 
 ```bash
-git clone https://github.com/yourusername/sequence-dice.git
+git clone https://github.com/DevMbhoni/Sequence-Dice-App.git
 cd sequence-dice
