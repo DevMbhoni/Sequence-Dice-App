@@ -7,7 +7,6 @@ Sequence Dice is a minimal Android game that challenges your memory, focus, and 
 - 🧠 Memory-based sequence gameplay
 - 🎲 Dice-inspired UI and animations
 - ⏱️ Increasing difficulty over time
-- 🔊 Optional sound feedback
 - 💾 High score tracking
 
 ## 🚀 Getting Started
@@ -15,8 +14,8 @@ Sequence Dice is a minimal Android game that challenges your memory, focus, and 
 ### Prerequisites
 
 - Android Studio Hedgehog or later
-- Android SDK 33+
-- Java 17 or Kotlin 1.9+
+- Android SDK 29+
+- Java 23+
 
 ### Clone & Run
 
